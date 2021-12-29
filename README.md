@@ -7,6 +7,7 @@ HƯỚNG DẪN CHẠY CHƯƠNG TRÌNH:
 
 =====MENU gồm các lệnh sau=====
  + Insert
+
 syntax: index(int) field[0] field[1] ... field[n]
 vd: 1 tao email address 9
  + Delete ,search theo index
