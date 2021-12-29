@@ -9,6 +9,7 @@ HƯỚNG DẪN CHẠY CHƯƠNG TRÌNH:
  + Insert
 
 syntax: index(int) field[0] field[1] ... field[n]
+
 vd: 1 tao email address 9
  + Delete ,search theo index
  + Update tương tự theo index nhưng khi nhập giá trị sau update không cần nhập index như lúc insert mà nhập từ field[0]
